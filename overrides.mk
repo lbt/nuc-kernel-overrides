@@ -1,0 +1,1 @@
+TARGET_KERNEL_CONFIG_OVERRIDES += hybris/overrides/kernel/kernel_defconfig_overlay
